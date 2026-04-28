@@ -39,6 +39,7 @@ See [`docs/architecture.md`](docs/architecture.md) for a deeper walkthrough.
 <img width="1100" height="650" alt="Screenshot 2026-04-28 at 5 10 04 PM" src="https://github.com/user-attachments/assets/76fc06bf-7115-45e1-b242-b1f7aff62cbc" />
 <img width="1068" height="427" alt="Screenshot 2026-04-28 at 5 10 38 PM" src="https://github.com/user-attachments/assets/30328b5a-3184-4367-8651-a537a79f1732" />
 
+<img width="1073" height="281" alt="Screenshot 2026-04-28 at 5 13 25 PM" src="https://github.com/user-attachments/assets/0eface07-7a71-4e6c-8992-5a401e96720e" />
 
 
 ---
