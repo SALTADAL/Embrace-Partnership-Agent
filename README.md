@@ -175,7 +175,7 @@ embrace-partnership-agent/
 
 ## Credits
 
-Built by Atlas Lad ([@neurolad](mailto:neurolad@gmail.com)) for Embrace. Inspired by the BD ops needs of healthcare startups scaling from pilots to systems.
+Built by Atlas Lad ([@SALTADAL](mailto:atlas.m.lad@gmail.com)) for Embrace. Inspired by the BD ops needs of healthcare startups scaling from pilots to systems.
 
 ## License
 
