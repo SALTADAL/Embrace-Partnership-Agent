@@ -1,12 +1,12 @@
 # Embrace Partnership Scoring Agent
 
-An AI agent that scores healthcare organizations as potential partners for [Embrace](https://sendembrace.com), a startup that helps friends and family create video montages for patients facing serious illness. Give the agent an organization name and it returns a 0-100 fit score, a five-dimension breakdown, three suggested decision-makers, and a draft outreach email — in under a minute. The agent compresses 20-30 minutes of manual prospect research into a single button click.
+An AI agent that scores healthcare organizations as potential partners for [Embrace](https://sendembrace.com), a startup that helps friends and family create video montages for patients facing serious illness. Give the agent an organization name and it returns a 0-100 fit score, a five-dimension breakdown, three suggested decision-makers, and a draft outreach email in under a minute. The agent compresses 20-30 minutes of manual prospect research into a single button click.
 
 ---
 
 ## Why I built this
 
-I'm Atlas Lad, founder of Embrace. We're scaling from clinical pilots at Duke, UNC, and City of Hope to broader hospital-system and nonprofit partnerships, and our outbound team needs to qualify hundreds of prospect organizations every week. Manual research — pulling up an org's website, scanning leadership pages, hunting for digital health initiatives, sketching an outreach angle — eats 20-30 minutes per organization. Multiplied across our pipeline, that's the bottleneck on growth.
+I'm Atlas Lad, founder of Embrace. We're scaling from clinical pilots at Duke, UNC, and City of Hope to broader hospital-system and nonprofit partnerships, and our outbound team needs to qualify hundreds of prospect organizations every week. Manual research of pulling up an org's website, scanning leadership pages, hunting for digital health initiatives, sketching an outreach angle often takes 20-30 minutes per organization. Multiplied across our pipeline, that's the bottleneck on growth.
 
 This agent is part of my application to the **Innovate Carolina summer fellowship at UNC Chapel Hill**. It's a working demo of how Embrace's BD team uses agentic AI to compress the discovery-to-outreach loop, and it's also the operational backbone we use today.
 
@@ -85,7 +85,7 @@ pytest -q
 
 The repo ships with three pre-loaded examples in the Streamlit demo. Click any of the example buttons to score them without typing.
 
-### 1. American Cancer Society — Tier A (expected ~88)
+### 1. American Cancer Society: Tier A (expected ~88)
 
 ```json
 {
@@ -110,11 +110,11 @@ The repo ships with three pre-loaded examples in the Streamlit demo. Click any o
 }
 ```
 
-### 2. CaringBridge — Tier A (expected ~90)
+### 2. CaringBridge: Tier A (expected ~90)
 
 Pure mission alignment match: a 501(c)(3) social platform for patients and families navigating serious illness. Decision-makers cluster around Partnerships and Product.
 
-### 3. Make-A-Wish Foundation — Tier B (expected ~70)
+### 3. Make-A-Wish Foundation: Tier B (expected ~70)
 
 Strong on clinical relevance (pediatric serious illness) and scale (national chapter network), weaker on direct family-connection technology fit. Useful for partnership discussions but not a slam-dunk integration target.
 
