@@ -1,4 +1,4 @@
-# Embrace Partnership Scoring Agent
+# Embrace Partnership Scoring Agent V1
 
 An AI agent that scores healthcare organizations as potential partners for [Embrace](https://sendembrace.com), a startup that helps friends and family create video montages for patients facing serious illness. Give the agent an organization name and it returns a 0-100 fit score, a five-dimension breakdown, three suggested decision-makers, and a draft outreach email in under a minute. The agent compresses 20-30 minutes of manual prospect research into a single button click.
 
